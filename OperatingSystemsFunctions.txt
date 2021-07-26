@@ -1,9 +1,0 @@
-Operating systems has a Memory Management to manages the Primary Memory and the Main Memory.
-Operating systems has a file manager to organize the storage into files and repertories.
-Operating systems has a Processor Management which allow to manage the entering process and to tells which one could enter, load its resources, and execute.
-Operating systems allows to use hardware.
-Operating systems allows you to read software.
-Operating systems allows communication with the user.
-Operating systems uses password protection to protect user data.
-Operating systems detect errors and avoid the malfunctioning.
-Operating systems keeps track of resources used by tasks and users.
