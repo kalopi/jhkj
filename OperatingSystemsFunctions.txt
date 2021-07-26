@@ -4,3 +4,6 @@ Operating systems has a Processor Management which allow to manage the entering 
 Operating systems allows to use hardware.
 Operating systems allows you to read software.
 Operating systems allows communication with the user.
+Operating systems uses password protection to protect user data.
+Operating systems detect errors and avoid the malfunctioning.
+Operating systems keeps track of resources used by tasks and users.
