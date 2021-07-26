@@ -1,3 +1,6 @@
-The operating system have a Memory Management to manages the Primary Memory and the Main Memory.
-The operating system have a file manager to organize the storage into files and repertories.
-The operating system have a Processor Management which allow to manage the entering process and to tells which one could enter, load its resources, and execute.
+Operating systems has a Memory Management to manages the Primary Memory and the Main Memory.
+Operating systems has a file manager to organize the storage into files and repertories.
+Operating systems has a Processor Management which allow to manage the entering process and to tells which one could enter, load its resources, and execute.
+Operating systems allows to use hardware.
+Operating systems allows you to read software.
+Operating systems allows communication with the user.
