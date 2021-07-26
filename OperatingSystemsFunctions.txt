@@ -1,0 +1,3 @@
+The operating system have a Memory Management to manages the Primary Memory and the Main Memory.
+The operating system have a file manager to organize the storage into files and repertories.
+The operating system have a Processor Management which allow to manage the entering process and to tells which one could enter, load its resources, and execute.
